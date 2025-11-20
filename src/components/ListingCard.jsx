@@ -1,4 +1,5 @@
 
+
 export default function ListingCard({ listing }) {
   return (
     <Card className='w-[320px]'>
