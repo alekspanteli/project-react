@@ -1,4 +1,5 @@
-
+import { Card, CardContent } from '@/components/ui';
+import { getImageUrl } from '@/lib/utils/images';
 
 export default function ListingCard({ listing }) {
   return (
