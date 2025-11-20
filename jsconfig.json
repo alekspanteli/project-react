@@ -7,7 +7,6 @@
     "allowSyntheticDefaultImports": true,
     "esModuleInterop": true,
     "skipLibCheck": true,
-    "checkJs": true,
     "baseUrl": ".",
     "paths": {
       "@/*": ["./src/*"]
